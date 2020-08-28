@@ -1,6 +1,9 @@
 ---
-titel: een webpagina over EBB
+title: the excavator
 ---
 ## pictures of the excavator
 
-![de excavator](20191102_150556.jpg)
+![the excavator](20191102_150556.jpg)
+![the excavator](20191102_150605.jpg)
+![the excavator](20191102_150617.jpg)
+![the excavator](20191102_150639.jpg)
