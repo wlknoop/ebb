@@ -4,7 +4,7 @@ Het terrein van het Presbyterian Lay Training Centre (PLTC) ligt aan de rand van
 
 ### beginnen: maken van cementblokken
 
-![](pics/mouldingblocks.jpg)
+![](mouldingblocks.jpg)
 
 *Je begint met het maken van cementblokken; de bouwstenen voor de muur.*
 
