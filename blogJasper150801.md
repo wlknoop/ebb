@@ -40,7 +40,7 @@ zo van een aantal maanden werkgelegenheid.*
 
 ### bouwen van de muur
 
-![](pics/buildwall.jpg)
+![](buildwall.jpg)
 
 *Dan kan de muur gebouwd worden. Er worden openingen gelaten waarin beton
 rond een stalen frame gestort zal worden tot in de fundering. Het
