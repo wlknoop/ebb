@@ -4,20 +4,20 @@ Het terrein van het Presbyterian Lay Training Centre (PLTC) ligt aan de rand van
 
 ### beginnen: maken van cementblokken
 
-![](https://github.com/wlknoop/ebb/blog/mouldingblocks.jpg)
+![](mouldingblocks.jpg)
 
 *Je begint met het maken van cementblokken; de bouwstenen voor de muur.*
 
 ### drogen en iedere dag met water besprinkelen
 
-![](pics/blocks.jpg)
+![](blocks.jpg)
 
 *De cementblokken moeten twee weken drogen en in die periode iedere dag
 met water besprinkelt worden*
 
 ### verwijderen van de bomen
 
-![](pics/DSC01486.jpg)
+![](DSC01486.jpg)
 
 *Ondertussen kan begonnen worden met het (handmatig) verwijderen van
 bomen die in de lijn van de muur staan. Voor de muur rond het
@@ -25,13 +25,13 @@ trainingscentrum werden in slechts 4 dagen 39 bomen verwijderd.*
 
 ### graven van de fundering
 
-![](pics/digfoundation.jpg)
+![](digfoundation.jpg)
 
 *Vervolgens wordt de fundering gegraven en het beton gestort.*
 
 ### verplaatsen van de cementblokken
 
-![](pics/carryblocks.jpg)
+![](carryblocks.jpg)
 
 *De cementblokken worden verplaatst naar de plek waar de muur gebouwd
 wordt. De mannen en vrouwen uit de buurt werken tijdens het hele
