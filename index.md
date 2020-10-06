@@ -8,4 +8,4 @@ title: the excavator
 ![the excavator](20191102_150617.jpg)
 ![the excavator](20191102_150639.jpg)
 
-[stamboom Knoop](http://stamboomKnoop.html)
+[stamboom Knoop](https://wlknoop.github.io/ebb/stamboomKnoop.html)
