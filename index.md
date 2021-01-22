@@ -1,7 +1,7 @@
 ---
 title: the excavator
 ---..
-Dit is een link naar de regel waar de link naar de website staat. The Org homepage[fn:1] is nu heel goed.
+Dit is een link naar de regel waar de link naar de website staat. The Org homepage [fn:1] is nu heel goed.
 ## pictures of the excavator
 
 ![the excavator](20191102_150556.jpg)
