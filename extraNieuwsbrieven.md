@@ -5,6 +5,8 @@
 - Een inhaalslag voor Oeganda
 - url: https://www.maf.nl/een-inhaalslag-voor-oeganda
 
+!(een inhaalslag)[https://www.maf.nl/een-inhaalslag-voor-oeganda]
+
 Overstromingen, sprinkhanenplaag en grote stromen vluchtelingen in 2020. Oeganda en zijn inwoners hebben het bepaald niet makkelijk. Toch bewijzen zij zich als ware doorzetters die hun leven meteen hervatten en doorgaan ondanks alles wat is gebeurd.
 
 Bij MAF weten wij hoe belangrijk juist dan blijvende hulp op medisch-, geestelijk- en ontwikkelingsgebied is. Daarom vliegt MAF een groot aantal ontwikkelingsorganisaties zoals ZOA, Tutapona, Save The Children en Plan International, door het land en naar de meest afgelegen gebieden om iets van Gods liefde aan de mensen te laten zien. In 2020 heeft de Oegandese regering een tussentijds vliegverbod uitgesproken dat ook voor MAF geen uitzondering maakte. Alleen ten tijde van de overstroming werd een speciale spoedtoestemming verleend. Binnen de kortste keren heeft MAF toen een vracht van 30.242 kg hulpgoederen zoals voedsel, dekens en medicijnen gevlogen om de grootste nood te verlichten. Een medewerker van een partnerorganisatie sprak zijn dank uit: “Bedankt, MAF, voor de excellente ondersteuning met de logistiek van alle hulpverlening.“
