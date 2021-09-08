@@ -2,10 +2,7 @@
 
 #### publicatiedatum: 11-02-2021
 
-- Een inhaalslag voor Oeganda
-- url: https://www.maf.nl/een-inhaalslag-voor-oeganda
-
-[een inhaalslag](https://www.maf.nl/een-inhaalslag-voor-oeganda)
+[de Oegandese regering maakt uitzondering voor de MAF](https://www.maf.nl/een-inhaalslag-voor-oeganda)
 
 Overstromingen, sprinkhanenplaag en grote stromen vluchtelingen in 2020. Oeganda en zijn inwoners hebben het bepaald niet makkelijk. Toch bewijzen zij zich als ware doorzetters die hun leven meteen hervatten en doorgaan ondanks alles wat is gebeurd.
 
@@ -13,15 +10,13 @@ Bij MAF weten wij hoe belangrijk juist dan blijvende hulp op medisch-, geestelij
 
 #### publicatiedatum: 21-04-2021
 
-- Laatste mijl: MAF vliegt COVID-19-vaccin
-- url: https://www.maf.nl/laatste-mijl-maf-vliegt-covid-19-vaccin/
+[Laatste mijl: MAF vliegt COVID-19-vaccin]((https://www.maf.nl/laatste-mijl-maf-vliegt-covid-19-vaccin/)
 
 In Lesotho ondersteunt MAF de Lesotho Flying Doctor Service (LFDS) door vaccins en verpleegkundigen naar afgelegen ziekenhuizen te vliegen die niet bereikbaar zijn via de weg. MAF dient sinds 1978 in Lesotho. Een klein bergachtig land met ongeveer 2 miljoen inwoners, omringd door Zuid-Afrika.
 
 #### publicatiedatum: 17-08-2021
 
-- Luchtbrug van hoop
-- https://www.maf.nl/luchtbrug-van-hoop/
+[Luchtbrug van hoop](https://www.maf.nl/luchtbrug-van-hoop/)
 
 ‘Misdaden tegen de menselijkheid’, zo luidt de tenlastelegging tegen de rebellenleiders van de laatste oorlog tussen 1998 en 2002 in de Democratische Republiek Congo (DRC). Sinds deze oorlog is seksueel geweld als wapen als het ware geïnstitutionaliseerd. De VN noemt de DRC vandaag de ‘verkrachtingshoofdstad van de wereld’. Elke dag vechten talloze slachtoffers, veelal vrouwen, met de lichamelijke en mentale gevolgen van dit geweld. MAF heeft nu een veilige luchtbrug opgezet om deze vrouwen naar het Panzi-ziekenhuis te brengen, waar zij de hulp krijgen die ze hard nodig hebben.
 
