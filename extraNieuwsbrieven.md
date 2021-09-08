@@ -10,7 +10,7 @@ Bij MAF weten wij hoe belangrijk juist dan blijvende hulp op medisch-, geestelij
 
 #### publicatiedatum: 21-04-2021
 
-[Laatste mijl: MAF vliegt COVID-19-vaccin]((https://www.maf.nl/laatste-mijl-maf-vliegt-covid-19-vaccin/)
+[Laatste mijl: MAF vliegt COVID-19-vaccin](https://www.maf.nl/laatste-mijl-maf-vliegt-covid-19-vaccin/)
 
 In Lesotho ondersteunt MAF de Lesotho Flying Doctor Service (LFDS) door vaccins en verpleegkundigen naar afgelegen ziekenhuizen te vliegen die niet bereikbaar zijn via de weg. MAF dient sinds 1978 in Lesotho. Een klein bergachtig land met ongeveer 2 miljoen inwoners, omringd door Zuid-Afrika.
 
