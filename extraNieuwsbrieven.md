@@ -5,7 +5,7 @@
 - Een inhaalslag voor Oeganda
 - url: https://www.maf.nl/een-inhaalslag-voor-oeganda
 
-(een inhaalslag)[https://www.maf.nl/een-inhaalslag-voor-oeganda]
+[een inhaalslag](https://www.maf.nl/een-inhaalslag-voor-oeganda)
 
 Overstromingen, sprinkhanenplaag en grote stromen vluchtelingen in 2020. Oeganda en zijn inwoners hebben het bepaald niet makkelijk. Toch bewijzen zij zich als ware doorzetters die hun leven meteen hervatten en doorgaan ondanks alles wat is gebeurd.
 
